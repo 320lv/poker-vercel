@@ -14,7 +14,7 @@
     "socket.io": "4.7.2",
     "socket.io-client": "4.7.2",
     "@react-three/fiber": "8.13.7",
-    "@react-three/drei": "9.59.4",
+    "@react-three/drei": "^9.56.0"
     "three": "0.160.0",
     "jsonwebtoken": "9.0.2"
   }
