@@ -1,0 +1,8 @@
+body { margin:0; font-family: Inter, Arial, sans-serif; background:#0b1020; color:#fff; }
+.app { padding:20px; max-width:1200px; margin:0 auto; }
+.header { display:flex; align-items:center; gap:12px; }
+.lobby { display:flex; gap:20px; align-items:flex-start; }
+.card { background:#0f1724; padding:12px; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.6); }
+button { background:#2563eb; border:none; padding:8px 12px; border-radius:6px; color:white; cursor:pointer; }
+input { padding:8px; border-radius:6px; border:1px solid #233049; background:#07102a; color:#fff; }
+.canvas-wrap { height:480px; border-radius:12px; overflow:hidden; }
